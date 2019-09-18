@@ -1,3 +1,0 @@
-node_modules,
-screencap1.png,
-screencap2.png,
