@@ -62,4 +62,6 @@ body {
 
 .carousel-caption {
   top: 10px;
+  margin-bottom: 10px;
+  overflow: auto;
 }
