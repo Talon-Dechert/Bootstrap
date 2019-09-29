@@ -65,3 +65,9 @@ body {
   margin-bottom: 10px;
   overflow: auto;
 }
+
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+}
